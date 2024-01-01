@@ -10,6 +10,13 @@ Monitor the availability of online appointments in Bürgeramt / Bürgerservice /
 - the page with zero appointments counts successful Tasks: "Aktueller Stand:
 Anzahl der heute neu berlinweit gebuchten Termine: 1642. Terminsuche erneut ausführbar in 00:54 Minuten"
 
+## Duisburg
+
+- deeplink for appointments https://www.duisburg.de/allgemein/fachbereiche/90/terminvereinbarung-buergerservice.php
+- deeplink for next free Office https://www.duisburg.de/allgemein/fachbereiche/90/terminvereinbarung-buergerservice.php
+- "Freitag, 05.01.2024, 09:45 - 09:55 - Bürger-Service-Station-Meiderich/Beeck"
+- deeplink for an Office https://www.duisburg.de/allgemein/fachbereiche/90/terminvereinbarung-buergerservice.php
+
 ## Moers
 
 - deeplink for appointments https://tevis.krzn.de/tevisweb090/
